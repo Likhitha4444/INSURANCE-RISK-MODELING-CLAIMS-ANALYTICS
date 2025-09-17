@@ -42,3 +42,4 @@ Strategic Planning → Aligns claims data with customer demographics for data-dr
 
 Screenshots / Demos
 This is how the dashboard will look like :
+![Insurance Risk Modeling & Claims Analytics](https://github.com/Likhitha4444/INSURANCE-RISK-MODELING-CLAIMS-ANALYTICS/blob/main/INSURANCE%20RISK%20MODELING%20%26%20CLAIMS%20ANALYTICS.png)
